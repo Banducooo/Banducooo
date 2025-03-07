@@ -2,7 +2,7 @@
 ![Pixel Profile](https://pixel-profile.vercel.app/api/github-stats?username=banducooo)
 
 <div align="center">
-  <img src="https://i.gifer.com/3otv.gif" alt="Banner" height="250">
+  <img src="https://i.gifer.com/3otv.gif" alt="Banner" height="250" width="500">
 </div>
 
 # 🎮 João Freire - Ideias em Código 🕹️
