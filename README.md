@@ -1,9 +1,10 @@
+<!--Replace <username> with your own GitHub username.-->
+![Pixel Profile](https://pixel-profile.vercel.app/api/github-stats?username=banducooo)
 
 <div style="width: 100%; text-align: center;">
   <img src="https://i.gifer.com/3otv.gif" alt="Banner" style="width: 100%; height: 250;">
 </div>
-<!--Replace <username> with your own GitHub username.-->
-![Pixel Profile](https://pixel-profile.vercel.app/api/github-stats?username=banducooo)
+
 
 
 # 🎮 João Freire - Ideias em Código 🕹️
