@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.gifer.com/5Yx8.gif](https://i.gifer.com/3otv.gif)" alt="Banner" height="500">
+  <img src="https://i.gifer.com/3otv.gif" alt="Banner" height="250">
 </div>
 
 # 🎮 João Freire - Ideias em Código 🕹️
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre mim  
+## Sobre mim  
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas - IFRO  
 - 🔍 **Explorando:** Mergulhando de cabeça no mundo do **Front-end** e do **Back-end**, criando interfaces intuitivas e funcionais  
 - 🎨 **Paixão:** Fascinado por **UX Design** e boas experiências para o usuário  
@@ -47,7 +47,7 @@
 
 ---
 
-## 📬 Contato  
+## Contato  
 📧 **Email:** joaofreireif@gmail.com  
 🔗 **GitHub:** [github.com/banducooo](https://github.com/banducooo)  
 
@@ -58,7 +58,7 @@ _"A tecnologia move o mundo."_ 🚀
 ---
 
 <div align="center">
-  <img src="https://i.gifer.com/5Yx8.gif" alt="Banner" height="500">
+  <img src="https://i.gifer.com/3otv.gif" alt="Banner" height="250">
 </div>
 
 # 🎮 João Freire - Turning Ideas into Code 🕹️
@@ -67,7 +67,7 @@ _"A tecnologia move o mundo."_ 🚀
 
 ---
 
-## 🚀 About Me  
+## About Me  
 - 🎓 **Education:** Systems Analysis and Development - IFRO  
 - 🔍 **Exploring:** Diving deep into the world of **Front-end** and **Back-end**, creating intuitive and functional interfaces  
 - 🎨 **Passion:** Fascinated by **UX Design** and providing great user experiences  
@@ -106,7 +106,7 @@ _"A tecnologia move o mundo."_ 🚀
 
 ---
 
-## 📬 Contact  
+## Contact  
 📧 **Email:** joaofreireif@gmail.com  
 🔗 **GitHub:** [github.com/banducooo](https://github.com/banducooo)  
 
