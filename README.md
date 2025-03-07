@@ -2,6 +2,8 @@
 <div style="width: 100%; text-align: center;">
   <img src="https://i.gifer.com/3otv.gif" alt="Banner" style="width: 100%; height: 250;">
 </div>
+<!--Replace <username> with your own GitHub username.-->
+![Pixel Profile](https://pixel-profile.vercel.app/api/github-stats?username=banducooo)
 
 
 # 🎮 João Freire - Ideias em Código 🕹️
@@ -42,9 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=banducooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banducooo&layout=compact&langs_count=10&theme=dracula"/>
 </div>
----
-<!--Replace <username> with your own GitHub username.-->
-![Pixel Profile](https://pixel-profile.vercel.app/api/github-stats?username=banducooo)
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=banducooo&theme=dracula&margin-w=15" />
