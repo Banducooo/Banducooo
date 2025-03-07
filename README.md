@@ -63,10 +63,17 @@
 </div>
 
 ### DevOps:
-- Gerenciamento de servidores e implementação de soluções em nuvem
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
 
 ### APIs:
-- Desenvolvimento de API REST
+<div align="center">
+  <img src="https://img.shields.io/badge/REST-FF2D20?style=for-the-badge&logo=api&logoColor=white">
+</div>
 
 ### Ferramentas e Tecnologias:
 <div align="center">
@@ -79,18 +86,8 @@
 </div>
 
 ### UX Designer:
-- Conhecimento intermediário em Figma
-
----
-
-## 📊 Estatísticas do GitHub  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=banducooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banducooo&layout=compact&langs_count=10&theme=dracula"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=banducooo&theme=dracula&margin-w=15" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 ---
@@ -162,10 +159,17 @@ _"A IA vai dominar o mundo ainda."_ 🚀
 </div>
 
 ### DevOps:
-- Server management and cloud solution implementation
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
 
 ### APIs:
-- REST API development
+<div align="center">
+  <img src="https://img.shields.io/badge/REST-FF2D20?style=for-the-badge&logo=api&logoColor=white">
+</div>
 
 ### Tools and Technologies:
 <div align="center">
@@ -178,18 +182,8 @@ _"A IA vai dominar o mundo ainda."_ 🚀
 </div>
 
 ### UX Designer:
-- Intermediate knowledge in Figma
-
----
-
-## 📊 GitHub Statistics  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=banducooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banducooo&layout=compact&langs_count=10&theme=dracula"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=banducooo&theme=dracula&margin-w=15" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 ---
