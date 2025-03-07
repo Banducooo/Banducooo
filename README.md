@@ -1,4 +1,12 @@
-<div align="center">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+  .pixel-font {
+    font-family: 'Press Start 2P', cursive;
+  }
+</style>
+
+<div align="center" class="pixel-font">
   <img src="https://i.gifer.com/3otv.gif" alt="Banner" height="250">
 </div>
 
@@ -8,7 +16,7 @@
 
 ---
 
-## Sobre mim  
+## 🚀 Sobre mim  
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas - IFRO  
 - 🔍 **Explorando:** Mergulhando de cabeça no mundo do **Front-end** e do **Back-end**, criando interfaces intuitivas e funcionais  
 - 🎨 **Paixão:** Fascinado por **UX Design** e boas experiências para o usuário  
@@ -47,17 +55,17 @@
 
 ---
 
-## Contato  
+## 📬 Contato  
 📧 **Email:** joaofreireif@gmail.com  
 🔗 **GitHub:** [github.com/banducooo](https://github.com/banducooo)  
 
 ---
 
-_"A tecnologia move o mundo."_ 🚀  
+_"Ia vai dominar esse mundo."_ 🚀  
 
 ---
 
-<div align="center">
+<div align="center" class="pixel-font">
   <img src="https://i.gifer.com/3otv.gif" alt="Banner" height="250">
 </div>
 
@@ -67,7 +75,7 @@ _"A tecnologia move o mundo."_ 🚀
 
 ---
 
-## About Me  
+## 🚀 About Me  
 - 🎓 **Education:** Systems Analysis and Development - IFRO  
 - 🔍 **Exploring:** Diving deep into the world of **Front-end** and **Back-end**, creating intuitive and functional interfaces  
 - 🎨 **Passion:** Fascinated by **UX Design** and providing great user experiences  
@@ -106,10 +114,10 @@ _"A tecnologia move o mundo."_ 🚀
 
 ---
 
-## Contact  
+## 📬 Contact  
 📧 **Email:** joaofreireif@gmail.com  
 🔗 **GitHub:** [github.com/banducooo](https://github.com/banducooo)  
 
 ---
 
-_"Technology moves the world."_ 🚀  
+_"IA will take this world."_ 🚀  
