@@ -1,4 +1,4 @@
-![Banner]([https://via.placeholder.com/1200x400.png?text=Bem-vindo+ao+meu+GitHub!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F5Yx8&psig=AOvVaw06-n2j521NFkI5r37SNX1q&ust=1741450496640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMD3l-eu-IsDFQAAAAAdAAAAABAE))
+![Banner](https://www.gifer.com/en/5Yx8)
 
 # João Freire - Transformando Ideias em Código
 
@@ -9,7 +9,7 @@
 ## Sobre mim  
 - **Formação:** Análise e Desenvolvimento de Sistemas - IFRO  
 - **Exploração:** Mergulhando de cabeça no mundo do **Front-end** e do **Back-end**, focando em criar interfaces intuitivas e funcionais  
-- **Paixão:** Interessado por **UX Design** e por proporcionar boas experiências digitais  
+- **Paixão:** Apaixonado por **UX Design** e por proporcionar boas experiências digitais  
 
 ---
 
@@ -66,7 +66,7 @@ _"A tecnologia move o mundo."_ 🚀
 
 ---
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+my+GitHub!)
+![Banner](https://www.gifer.com/en/5Yx8)
 
 # João Freire - Turning Ideas into Code
 
