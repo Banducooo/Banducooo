@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.gifer.com/5Yx8.gif" alt="Banner" height="200">
+  <img src="https://i.gifer.com/5Yx8.gif" alt="Banner" height="500">
 </div>
 
 # 🎮 João Freire - Ideias em Código 🕹️
@@ -58,7 +58,7 @@ _"A tecnologia move o mundo."_ 🚀
 ---
 
 <div align="center">
-  <img src="https://i.gifer.com/5Yx8.gif" alt="Banner" height="200">
+  <img src="https://i.gifer.com/5Yx8.gif" alt="Banner" height="500">
 </div>
 
 # 🎮 João Freire - Turning Ideas into Code 🕹️
