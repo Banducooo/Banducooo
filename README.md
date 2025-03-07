@@ -1,7 +1,12 @@
 <!--Replace <username> with your own GitHub username.-->
-https://pixel-profile.vercel.app/api/github-stats?username=banducooo
+![Pixel Profile](https://pixel-profile.vercel.app/api/github-stats?username=banducooo)
 
-<div align="center" class="pixel-font">
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<username>&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
+</picture>
+<div align="center">
   <img src="https://i.gifer.com/3otv.gif" alt="Banner" height="250">
 </div>
 
@@ -59,6 +64,11 @@ https://pixel-profile.vercel.app/api/github-stats?username=banducooo
 _"A IA vai dominar o mundo ainda."_ 🚀  
 
 ---
+
+<div align="center">
+  <img src="https://i.gifer.com/3otv.gif" alt="Banner" height="250">
+</div>
+
 # 🎮 João Freire - Turning Ideas into Code 🕹️
 
 💻 I'm a Junior Front-end Developer with a passion for technology, innovation, and best development practices. Always looking to learn something new and improve my skills. My goal is to create amazing digital experiences that truly make a difference!
