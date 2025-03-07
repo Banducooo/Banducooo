@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.gifer.com/5Yx8.gif" alt="Banner" height="500">
+  <img src="[https://i.gifer.com/5Yx8.gif](https://i.gifer.com/3otv.gif)" alt="Banner" height="500">
 </div>
 
 # 🎮 João Freire - Ideias em Código 🕹️
