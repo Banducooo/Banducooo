@@ -1,133 +1,51 @@
-![Banner](https://www.gifer.com/en/5Yx8)
+![Banner]([https://www.gifer.com/en/5Yx8](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F5Yx8&psig=AOvVaw06-n2j521NFkI5r37SNX1q&ust=1741450496640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMD3l-eu-IsDFQAAAAAdAAAAABAE))
 
-# João Freire - Transformando Ideias em Código
+# 🎮 João Freire -  Ideias em Código 🕹️
 
-💻 Sou um Desenvolvedor Front-end Júnior, com uma paixão incansável por tecnologia e inovação. Sempre em busca de novos desafios e oportunidades para aprender, gosto de explorar tecnologias emergentes e aprimorar minhas habilidades diariamente. Meu objetivo é criar experiências digitais incríveis que realmente façam a diferença.
-
----
-
-## Sobre mim  
-- **Formação:** Análise e Desenvolvimento de Sistemas - IFRO  
-- **Exploração:** Mergulhando de cabeça no mundo do **Front-end** e do **Back-end**, focando em criar interfaces intuitivas e funcionais  
-- **Paixão:** Apaixonado por **UX Design** e por proporcionar boas experiências digitais  
+💻 Desenvolvedor Front-end Júnior apaixonado por tecnologia, inovação e boas práticas de desenvolvimento. Sempre buscando aprender algo novo e aprimorar minhas habilidades. Meu objetivo é criar experiências digitais incríveis que realmente façam a diferença!
 
 ---
 
-## Habilidades Técnicas  
-💡 **Linguagens:**  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
-
-🛠️ **Frameworks & Tecnologias:**  
-React, React Native, Redux, Hooks, Angular, NestJS, Laravel, Express, Strapi, Blade  
-
-📂 **Banco de Dados:**  
-MySQL, PostgreSQL, MongoDB  
-
-🌍 **Infraestrutura e Redes:**  
-Linux, Mikrotik, Ubiquiti, Cisco  
-
-🚀 **DevOps & APIs:**  
-Gerenciamento de servidores, Cloud, API REST  
-
-🎨 **UX & Design:**  
-Figma (Intermediário)  
+## 🚀 Sobre mim  
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas - IFRO  
+- 🔍 **Explorando:** Mergulhando de cabeça no mundo do **Front-end** e do **Back-end**, criando interfaces intuitivas e funcionais  
+- 🎨 **Paixão:** Fascinado por **UX Design** e boas experiências para o usuário  
 
 ---
 
-## Formação  
-🎓 **Análise e Desenvolvimento de Sistemas** - IFRO (2023 - 2027)  
-🎓 **Técnico em Informática** - IFRO (2020 - 2022)  
+## 🛠️ Tech Stack  
+### Linguagens:
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</div>
+
+### Frameworks e Tecnologias:
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</div>
 
 ---
 
-## Idiomas  
-- **Inglês:** Intermediário  
-- **Espanhol:** Básico  
+## 📊 Estatísticas do GitHub  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=banducooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banducooo&layout=compact&langs_count=10&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=banducooo&theme=dracula&margin-w=15" />
+</div>
 
 ---
 
-## Estatísticas  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=banducooo&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=banducooo&layout=compact&theme=radical)  
+## 📬 Contato  
+📧 **Email:** joaofreireif@gmail.com  
+🔗 **GitHub:** [github.com/banducooo](https://github.com/banducooo)  
 
----
-
-## Contato  
-📧 **E-mail:** [joaofreireif@gmail.com](mailto:joaofreireif@gmail.com)  
-🐙 **GitHub:** [github.com/banducooo](https://github.com/banducooo)  
-
----
-
-_"A tecnologia move o mundo."_ 🚀  
-
----
-
-![Banner](https://www.gifer.com/en/5Yx8)
-
-# João Freire - Turning Ideas into Code
-
-💻 I'm a Junior Front-end Developer with an unyielding passion for technology and innovation. Always on the lookout for new challenges and opportunities to learn, I enjoy exploring emerging technologies and honing my skills daily. My goal is to create amazing digital experiences that truly make a difference.
-
----
-
-## About Me  
-- **Education:** Systems Analysis and Development - IFRO  
-- **Exploration:** Diving deep into the world of **Front-end** and **Back-end**, focusing on creating intuitive and functional interfaces  
-- **Passion:** Passionate about **UX Design** and providing great digital experiences  
-
----
-
-## Technical Skills  
-💡 **Languages:**  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
-
-🛠️ **Frameworks & Technologies:**  
-React, React Native, Redux, Hooks, Angular, NestJS, Laravel, Express, Strapi, Blade  
-
-📂 **Databases:**  
-MySQL, PostgreSQL, MongoDB  
-
-🌍 **Infrastructure and Networks:**  
-Linux, Mikrotik, Ubiquiti, Cisco  
-
-🚀 **DevOps & APIs:**  
-Server management, Cloud, REST API  
-
-🎨 **UX & Design:**  
-Figma (Intermediate)  
-
----
-
-## Education  
-🎓 **Systems Analysis and Development** - IFRO (2023 - 2027)  
-🎓 **Technical in Informatics** - IFRO (2020 - 2022)  
-
----
-
-## Languages  
-- **English:** Intermediate  
-- **Spanish:** Basic  
-
----
-
-## Statistics  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=banducooo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banducooo&layout=compact&theme=radical)  
-
----
-
-## Contact  
-📧 **Email:** [joaofreireif@gmail.com](mailto:joaofreireif@gmail.com)  
-🐙 **GitHub:** [github.com/banducooo](https://github.com/banducooo)  
-
----
-
-_"Technology moves the world."_ 🚀  
