@@ -1,10 +1,5 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
-  .pixel-font {
-    font-family: 'Press Start 2P', cursive;
-  }
-</style>
+<!--Replace <username> with your own GitHub username.-->
+https://pixel-profile.vercel.app/api/github-stats?username=banducooo
 
 <div align="center" class="pixel-font">
   <img src="https://i.gifer.com/3otv.gif" alt="Banner" height="250">
@@ -61,14 +56,9 @@
 
 ---
 
-_"Ia vai dominar esse mundo."_ 🚀  
+_"A IA vai dominar o mundo ainda."_ 🚀  
 
 ---
-
-<div align="center" class="pixel-font">
-  <img src="https://i.gifer.com/3otv.gif" alt="Banner" height="250">
-</div>
-
 # 🎮 João Freire - Turning Ideas into Code 🕹️
 
 💻 I'm a Junior Front-end Developer with a passion for technology, innovation, and best development practices. Always looking to learn something new and improve my skills. My goal is to create amazing digital experiences that truly make a difference!
@@ -120,4 +110,4 @@ _"Ia vai dominar esse mundo."_ 🚀
 
 ---
 
-_"IA will take this world."_ 🚀  
+_"AI will take over the world eventually."_ 🚀  
