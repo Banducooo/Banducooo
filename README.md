@@ -100,15 +100,3 @@
 _"A IA vai dominar o mundo ainda."_ 🚀  
 
 ---
-
-<div style="width: 100%; text-align: center;">
-  <img src="https://i.gifer.com/3otv.gif" alt="Banner" style="width: 100%; height: auto;">
-</div>
-
-_"AI will take over the world eventually."_ 🚀  
-
----
-
-<div style="width: 100%; text-align: center;">
-  <img src="https://i.gifer.com/3otv.gif" alt="Banner" style="width: 100%; height: auto;">
-</div>
