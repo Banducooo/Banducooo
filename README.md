@@ -11,14 +11,13 @@
 
 # 🎮 João Freire - Ideias em Código 🕹️
 
-💻 Desenvolvedor Front-end Júnior apaixonado por tecnologia, inovação e boas práticas de desenvolvimento. Sempre buscando aprender algo novo e aprimorar minhas habilidades. Meu objetivo é criar experiências digitais incríveis que realmente façam a diferença!
+💻 Desenvolvedor Full Stack Júnior apaixonado por tecnologia, inovação e boas práticas de desenvolvimento. Sempre buscando aprender algo novo e aprimorar minhas habilidades. Meu objetivo é criar experiências digitais incríveis que realmente façam a diferença!
 
 ---
 
 ## 🚀 Sobre mim  
-- 🎓 **Formação:** Técnico em Informática - IFRO  
-- 🔍 **Explorando:** Mergulhando de cabeça no mundo do **Front-end** e do **Back-end**, criando interfaces intuitivas e funcionais  
-- 🎨 **Paixão:** Fascinado por **UX Design** e boas experiências para o usuário  
+- 🎓 **Formação:** Técnico em Informática - IFRO
+- 🎓 **Formação em andamento:** Analise e Desenvolvimento de Sistemas - Estácio  
 
 ---
 
