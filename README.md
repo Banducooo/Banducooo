@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Sobre mim  
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas - IFRO  
+- 🎓 **Formação:** Técnico em Informática - IFRO  
 - 🔍 **Explorando:** Mergulhando de cabeça no mundo do **Front-end** e do **Back-end**, criando interfaces intuitivas e funcionais  
 - 🎨 **Paixão:** Fascinado por **UX Design** e boas experiências para o usuário  
 
