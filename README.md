@@ -16,6 +16,7 @@
 Minha trajetória começou com foco em programação (desenvolvimento web e mobile), o que me deu uma visão sólida de como os sistemas são construídos. Com o tempo, migrei para a infraestrutura e automação de processos, onde atuo mais fortemente hoje.
 
 Meu objetivo é atuar em projetos que demandem qualidade, estabilidade e escalabilidade, conectando o desenvolvimento ao ambiente de produção de forma eficiente.
+
 ---
 
 ## 🚀 Sobre mim  
